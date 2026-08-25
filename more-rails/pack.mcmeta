@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Craft double the rails with the same ammount of iron",
+        "min_format": 88,
+        "max_format": 107.1
+    }
+}
